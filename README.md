@@ -8,12 +8,13 @@ Hi! 👋 I'm <strong>Vedant</strong>
 
 <p align="center">
   Undergrad Student @ <strong>University of Guelph</strong> <br>
-  Major @ <strong>Computer Science</strong> <br>
-  Minor @ <strong>Mathematics</strong>
+  <strong>Bachelor in Computing</strong> <br>
+  Major : <strong>Computer Science</strong> <br>
+  Minor : <strong>Mathematics and Statistics</strong>
 </p>
 
 <p align="center">
-  <strong>Actively Seeking 2024 Summer Coop Internship.</strong>
+  <strong>Actively Seeking Winter/Summer 2025 Co-op/Internship.</strong>
 </p>
 
 <div align="center">
