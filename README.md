@@ -10,11 +10,11 @@ Hi! 👋 I'm <strong>Vedant</strong>
   Undergrad Student @ <strong>University of Guelph</strong> <br>
   <strong>Bachelor in Computing</strong> <br>
   Major : <strong>Computer Science</strong> <br>
-  Minor : <strong>Mathematics and Statistics</strong>
+  Minor : <strong>Mathematics</strong>
 </p>
 
 <p align="center">
-  <strong>Actively Seeking Winter/Summer 2025 Co-op/Internship.</strong>
+  <strong>Actively Seeking May 2026 Fulltime/New Grad Roles.</strong>
 </p>
 
 <div align="center">
