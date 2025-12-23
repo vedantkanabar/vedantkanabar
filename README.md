@@ -26,6 +26,6 @@ Hi! 👋 I'm <strong>Vedant</strong>
 
 <div align="center">
   
-Contact me at: vedantkanabar2003@gmail.com or vkanabar@uoguelph.ca
+Contact me at: vedantkanabar.vk@gmail.com
   
 </div>
